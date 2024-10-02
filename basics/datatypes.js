@@ -39,3 +39,15 @@ console.log(typeof y) // objrct
 
 // js is dynamic language 
 
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++
+//MEMORY
+
+//Stack - (primitive)(yu get the copy)
+//Heap - (non-primitive)(you get the reference)
+
+
+
+
+
+
